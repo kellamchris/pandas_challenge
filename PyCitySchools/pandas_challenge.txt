@@ -1,10 +1,5 @@
-District Summary
-
-
-School Summary
 -I used XPert Learning Assistant for help in calculating the per capita spending per school
 -Used XPert for help in calculating the average test scores per school
 -Used XPert for help in calculating the percentage of students passing per school
 -Used XPert to find code for removing the "school_name" heading under the DataFrame at the end of the "School Summary" section to make it look clearner. 
-
-Highest-Performing Schools (by % Overall Passing)
+-Used XPert to help with the right code for getting the mean math score of each school by grade
